@@ -1,6 +1,5 @@
 👋 Hi, I’m Nahia  
 🎓 Physics BSc student at UNED  
-👀 Interested in medical imaging and deep learning  
 🌈 She/Her
 
 <!---
